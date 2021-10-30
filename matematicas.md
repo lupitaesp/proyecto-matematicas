@@ -7,3 +7,4 @@ Esta es una modificacion del archivo para ver la diferencia entre un commit y re
 
 Esta es una nueva modificacion y estoy haciendo unos progresos
 
+En esta ocasion se esta realizando una pueba desde GitHub hacia el repositorio local.
