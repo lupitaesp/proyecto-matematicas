@@ -1,5 +1,5 @@
 # Principios de Codificación Segura
-La codificación segura es diseñar y desarrollar software evitando las debilidades que conducen a vulnerabilidades relacionadas con la seguridad.
+La codificación segura es diseñar y desarrollar software evitando las debilidades que conducen a vulnerabilidades relacionadas con la seguridad al adherirse a los estándares de seguridad especificados y las mejores prácticas de la industria..
 
 Seguridad por defecto
 *El sistema debe contar con parametros preestablecidos para la seguridad.
